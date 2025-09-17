@@ -5,5 +5,5 @@ public enum MissionRank {
     C,
     B,
     A,
-    S;
+    S
 }
